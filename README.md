@@ -65,5 +65,4 @@ Com a configuração atual (Vocabulário de 1.000 palavras, 300 amostras de trei
 
 *Este projeto foi desenvolvido como parte da disciplina de Inteligência Artificial.*
 
-```
-```
+
