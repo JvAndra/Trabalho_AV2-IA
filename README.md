@@ -1,4 +1,4 @@
-# Análise de Sentimentos IMDB com HMM (Implementação do Zero)
+# Análise de Sentimentos IMDB com HMM e LLM
 
 Este repositório contém a implementação de um classificador de sentimentos (Positivo vs. Negativo) utilizando **Modelos Ocultos de Markov (Hidden Markov Models - HMM)** e um segundo modelo baseado em LLM, ambos aplicados ao dataset de críticas de filmes do IMDB.
 
